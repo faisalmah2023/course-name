@@ -1,2 +1,2 @@
 title: FM Blog
-date: YYYY-MM-DD
+date: 2023-Mar-4
